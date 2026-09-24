@@ -259,4 +259,6 @@ Manakeu/
 
 Original authors: **@Firstianmaker**, **@Auraja**, and **@alifnadn**.
 
+Completed by: **@Firstianmaker**
+
 The project package declares the **ISC** license.
