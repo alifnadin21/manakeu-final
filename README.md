@@ -257,7 +257,7 @@ Manakeu/
 
 ## Credits and license
 
-Original authors: **@Firstianmaker**, **@Auraja**, and **@alifnadn**.
+Original authors: **@Firstianmaker**, **@Auraja**, and **@alifnadin21**.
 
 Completed by: **@Firstianmaker**
 
